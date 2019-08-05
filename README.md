@@ -1,4 +1,4 @@
-## ETCD Cluster
+## ETCD Cluster
 
 Helm based version of etcd-cluster
 
